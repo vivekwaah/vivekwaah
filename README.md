@@ -21,10 +21,9 @@
   </h1>
   
   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kumar97vivek)](https://github.com/KnlnKS/leetcode-stats)
   </div>
 
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kumar97vivek)](https://github.com/KnlnKS/leetcode-stats)
 
 </div>
 
