@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
+
+<p align="center">
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+</p>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=firewall004&label=Profile%20views&color=0e75b6&style=flat"
-        alt="firewall004" /> </p>
+        alt="firewall004" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=firewall004" alt="firewall004" /></a> </p>
@@ -131,16 +136,12 @@
             alt="typescript" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" /> </a> <a href="https://vuepress.vuejs.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-            alt="vuepress" width="40" height="40" /> </a> <a href="https://vuetifyjs.com/en/" target="_blank"
+            alt="vuejs" width="40" height="40" /> </a> <a href="https://vuetifyjs.com/en/" target="_blank"
         rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-            alt="webpack" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
-        target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
-            width="40" height="40" /> </a> </p>
+            alt="webpack" width="40" height="40" /> 
+    </p>
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=firewall004&show_icons=true&locale=en"
