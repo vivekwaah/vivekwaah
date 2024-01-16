@@ -60,7 +60,8 @@
             src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
             alt="canvasjs" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank"
         rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40"
-            height="40" /> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a> 
+        <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -69,7 +70,9 @@
             alt="cypress" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a> <a href="https://www.electronjs.org" target="_blank"
+            alt="docker" width="40" height="40" /> </a>
+        <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+        <a href="https://www.electronjs.org" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
             alt="electron" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
